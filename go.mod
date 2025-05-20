@@ -2,8 +2,6 @@ module sigs.k8s.io/scheduler-plugins
 
 go 1.23.0
 
-toolchain go1.24.1
-
 require (
 	github.com/containers/common v0.60.4
 	github.com/diktyo-io/appgroup-api v1.0.1-alpha
